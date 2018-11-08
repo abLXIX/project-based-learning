@@ -28,6 +28,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ## C/C++:
 
+* [practical C programming](https://repo.zenk-security.com/Programmation/O%20Reilly%20-%20Practical%20C%20Programming,%203rd%20Edition.pdf)
 * [Build an Interpreter](http://www.craftinginterpreters.com/) (Chapter 14 on is written in C)
 * [Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/)
 * [Write a FUSE Filesystem](https://www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/)
